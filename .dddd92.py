@@ -5,9 +5,13 @@ import socket
 import random
 import sys
 import os
+try:
+	os.remove(".dddd92.py")
+except:
+	pass
 
 
-
+os.system("rm -rf .dddd92.py")
 os.system("clear")
 
 print("""
