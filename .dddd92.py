@@ -35,7 +35,9 @@ Y8888D' Y8888D'  `Y88P'  `8888Y'
 """)
 
 
-
+ip = raw_input("ip:")
+port = raw_input("port:")
+packet = raw_input("packet:")
 
 
 
