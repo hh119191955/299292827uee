@@ -29,7 +29,7 @@ Y8888D' Y8888D'  `Y88P'  `8888Y'
 \033[1;97mAuther : Hama Z.w
 \033[1;97mTelegram Channel : @kurdhacker_hama_bn_dlaj
 \033[1;97mTelegram Group : @kurdhackerzw
-\033[1;97mGithub : https://github.com/533hacker
+\033[1;97mGithub : https://github.com/Kerm
 \033[1;97mThis Tool DDos Wifi
 \033[1;97m--------------------------------------------------
 """)
